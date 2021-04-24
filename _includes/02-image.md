@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Baby robins are wonderfully ugly!](https://i0.hippopx.com/photos/464/84/17/red-robin-bird-chick-nature-preview.jpg)
